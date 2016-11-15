@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "echo 1 >> test.txt",
+    "test": "echo `pwd`",
 	"dev" : "touch build.txt"
   },
   "author": "",
